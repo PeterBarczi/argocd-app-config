@@ -17,5 +17,5 @@ spec:
         app: rocky
     spec:
       containers:
-      - image: petyb/rocky:1
+      - image: petyb/rocky:2
         name: rocky
